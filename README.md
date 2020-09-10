@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently preparing for AWS Certified Cloud Practitioner exam through [Udemy][https://www.udemy.com/course/aws-certified-cloud-practitioner-new/].
-- 🌱 I’m currently learning/re-learning algorithms and data structures through [Udemy][https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/].
+- 🔭 I’m currently preparing for AWS Certified Cloud Practitioner exam through [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/).
+- 🌱 I’m currently learning/re-learning algorithms and data structures through [Udemy](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/).
 - 📫 How to reach me: richard.fenix@gmail.com
 - ⚡ Fun fact: Joined math competitions during high school days. Loves playing badminton and basketball.
 
