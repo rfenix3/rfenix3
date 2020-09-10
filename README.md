@@ -1,5 +1,4 @@
-<!--
-### Hi there 👋
+### Hi, I'm Richard 👋
 
 <!--
 **rfenix3/rfenix3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p><em>Fullstack Developer <br/>Graduate from <a href="https://flatironschool.com//">Flatiron School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"/></em></p>
 
 ### More About Me
 - 🔭 I’m currently preparing for AWS Certified Cloud Practitioner exam through [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/).
