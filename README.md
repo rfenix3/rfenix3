@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <p><em>Fullstack Developer <br/>Graduate from <a href="https://flatironschool.com//">Flatiron School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"/></em></p>
 
+*****
 ### More About Me
 - 🔭 I’m currently preparing for AWS Certified Cloud Practitioner exam through [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/).
 - 🌱 I’m currently learning/re-learning algorithms and data structures through [Udemy](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/).
