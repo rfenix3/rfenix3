@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+- 🔭 I’m currently preparing for AWS Cloud Practitioner Certification exam.
 - 🌱 I’m currently learning/re-learning algorithms and data structures.
+- 📫 How to reach me: richard.fenix@gmail.com
+- ⚡ Fun fact: Joined math competitions during high school days. Loves playing badminton and basketball.
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rfenix3)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rfenix3&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rfenix3)
