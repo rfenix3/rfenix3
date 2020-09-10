@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently preparing for AWS Certified Cloud Practitioner exam through [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/).
 - 🌱 I’m currently learning/re-learning algorithms and data structures through [Udemy](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/).
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/richard-fenix/)
-- ⚡ Fun fact: Joined inter-school math competitions during high school. Loves playing badminton and basketball.
+- ⚡ Fun fact: Swam with sharks once... and never again! Joined inter-school math competitions during high school.
 - 💬 Ask me about anything! I want to help
 
 
