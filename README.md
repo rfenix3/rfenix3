@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently preparing for AWS Certified Cloud Practitioner exam through [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/).
 - 🌱 I’m currently learning/re-learning algorithms and data structures through [Udemy](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/).
 - 📫 How to reach me: richard.fenix@gmail.com
-- ⚡ Fun fact: Joined math competitions during high school days. Loves playing badminton and basketball.
+- ⚡ Fun fact: Joined inter-school math competitions during high school. Loves playing badminton and basketball.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rfenix3)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rfenix3&hide=TSQL)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rfenix3&theme=highcontrast&show_icons=true&count_private=true)
 
